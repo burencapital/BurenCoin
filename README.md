@@ -9,6 +9,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network.
 
 Contact at:
+
 https://www.instagram.com/burencapital/
 
 http://ow24et3tetp6tvmk.onion/
@@ -24,3 +25,7 @@ regularly from release branches to indicate new official, stable release version
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 🇲🇳
+
+Buren Capital Mongolia
+-------------------
+https://www.instagram.com/burencapital/
